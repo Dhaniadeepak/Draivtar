@@ -42,14 +42,6 @@ flowchart LR
     B --> H[HeyGen Avatar API]
 ```
 
-## Screenshots
-
-<!-- Add your screenshots to the /screenshots folder, then uncomment and edit the lines below -->
-<!--
-![Patient Chat](screenshots/chat.png)
-![Avatar Response](screenshots/avatar.png)
-![Admin Portal](screenshots/admin.png)
--->
 
 ## My Contribution
 
